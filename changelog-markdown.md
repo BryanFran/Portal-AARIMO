@@ -8,7 +8,7 @@
 
 ---
 
-## [1.0.0-beta] - 2024-12-XX
+## [1.0.0-beta] - 2024-12-20
 
 ### 🎉 Lanzamiento Inicial
 
@@ -181,7 +181,7 @@ Heading Font: Rubik Light
 
 ---
 
-## [0.1.0] - 2024-11-XX
+## [0.1.0] - 2024-11-26
 
 ### ➕ Agregado
 - Configuración inicial del repositorio
@@ -228,7 +228,5 @@ Este proyecto sigue el [Versionado Semántico](https://semver.org/). En resumen:
 ## Enlaces Útiles
 
 - [Portal de Datos AARIMO](https://alianza-amazonica-aarimo-szf.hub.arcgis.com/)
-- [Repositorio GitHub](https://github.com/AARIMO/portal-datos)
-- [Issues y Feature Requests](https://github.com/AARIMO/portal-datos/issues)
-- [Documentación Completa](https://github.com/AARIMO/portal-datos/wiki)
-- [Guías de Contribución](CONTRIBUTING.md)
+- [Repositorio GitHub]([https://github.com/AARIMO/portal-datos](https://github.com/BryanFran/Portal-AARIMO))
+- [Issues y Feature Requests]([https://github.com/AARIMO/portal-datos/issues](https://github.com/BryanFran/Portal-AARIMO/issues))
