@@ -8,15 +8,18 @@
   
   <path 
     d="M 50 5 C 20 20, 15 80, 50 95 C 85 80, 80 20, 50 5 Z" 
-    fill="#38761D" 
+    fill="#3A8D40" 
     stroke="#1E461A" 
     stroke-width="3"/>
   
-  <g fill="#FFFFFF">
-    <rect x="45" y="25" width="10" height="50" rx="3"/>
-    <rect x="25" y="45" width="50" height="10" rx="3"/>
+  <g fill="#FFFFFF" transform="translate(0, -5)"> <rect x="45" y="40" width="10" height="30" rx="3"/>
+    <rect x="35" y="50" width="30" height="10" rx="3"/>
   </g>
   
-  <circle cx="80" cy="80" r="5" fill="#FFC72C" stroke="#B8860B" stroke-width="1.5"/>
-
+  <path 
+    d="M 65 75 C 70 70, 70 60, 65 60 C 60 60, 60 70, 65 75 Z" 
+    fill="#888888" 
+    stroke="#555555" 
+    stroke-width="1.5"/>
+  
 </svg>
